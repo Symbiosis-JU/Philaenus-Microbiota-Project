@@ -28,7 +28,6 @@ Joins all the libraries into one table and assigns all the sequences to taxonomy
   - 16S zotu table (produced by Amplicon processing),
   - otus.tax (produced by Amplicon processing),
   - list of blanks,
-  - list of spikeins,
 - Decontaminates 16S data based on negative controls,
 - Creates:
   - Table with zotus assigned as: symbiont or contaminants,
